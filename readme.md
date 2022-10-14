@@ -1,0 +1,1 @@
+Small example project for the [kotlin-komponent](https://github.com/rnentjes/komponent) library.
